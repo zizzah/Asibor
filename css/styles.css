@@ -203,6 +203,7 @@ video{
   width: 100%;
   background-color: #f6b319;
   height: 200px;
+  border-radius:10px;
 }
 
 .main{
